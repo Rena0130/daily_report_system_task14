@@ -154,3 +154,28 @@ pre {
 h3 {
     font-size: larger;
 }
+table#attendance_list th {
+    font-weight: bold;
+    padding: 10px 2%;
+}
+
+table#attendance_list .attendance_id {
+    width: 20%;
+}
+
+table#attendance_list .attendance_name {
+    width: 20%;
+    padding: 10px 2%;
+}
+
+table#attendance_list .attendance_name {
+    width: 20%;
+}
+
+table#attendance_list .attendance_enter {
+    width: 20%;
+}
+
+table#attendance_list .attendance_leave {
+    width: 20%;
+}
